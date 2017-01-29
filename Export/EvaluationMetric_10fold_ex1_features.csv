@@ -1,0 +1,5 @@
+Statistic Measure,Naive Bayes,KNN,SVM,Random Forest,My Method - SVM
+Accuracy K = 10,0.90 (+/- 0.01),0.85 (+/- 0.01),0.91 (+/- 0.01),0.89 (+/- 0.02),0.93 (+/- 0.01)
+Accuracy K = 50,0.90 (+/- 0.01),0.85 (+/- 0.01),0.91 (+/- 0.01),0.89 (+/- 0.02),0.93 (+/- 0.01)
+Accuracy K = 100,0,0,0,0,0
+Accuracy K = 1000,0,0,0,0,0
